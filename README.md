@@ -1,6 +1,6 @@
 <p align="center">
-      <img style="width:100px; height: 100px;"  src="https://telegra.ph/file/c823fea618f6c024e75a9.png"></p>
-<h1 align="center"><b>Rose bot ✨</b></h1>
+      <img style="width:100px; height: 100px;"  src="https://telegra.ph/file/611dd77adab66f309ae6d.jpg"></p>
+<h1 align="center"><b>Calty Robot</b></h1>
 <h2 align="center"><b>The Telegram Bot to manage and protect groups</b></h2>
 <h4 align="center">Rose bot  simplifies the management, administration and security of your group</h4>
 
@@ -20,11 +20,11 @@ Have you ever received Telegram in your group **spam, adder, flood,** people who
 
 ## How does She work?
 
-Just add Rose Bot to your group as an administrator and configure it with the command /help. It will be ready to protect the your group from spam, flood and attacks. You can set banned words so that the ban or mute of a user in the group when sent.
+Just add CaltyBot to your group as an administrator and configure it with the command /help. It will be ready to protect the your group from spam, flood and attacks. You can set banned words so that the ban or mute of a user in the group when sent.
 There is an anti-porn filter to be enabled to automatically delete and punish those who send pornographic content in your group.
 You can adjust all kinds of punishments including message deletion, user ban, user mute etc. There is a captcha check to prevent the entry of VoIP users who automatically spam your group. You can set <b> filters|note|rules|welcome </b> message also for your group.
 
-## Main Rose functions
+## Main Calty functions
 ### PROTECTION 
   * **Captcha** - Ask users who join the group to resolve a captcha, to filter out unwanted automatic logins.
   * **Anti-Channel** - Automatically delete channel messages if you enable it `/lock anonchannel` .
@@ -65,11 +65,11 @@ If you want to make your bot even more unique, you can create a customized rose 
 
 ## Contact & Support Chats
 
- - [support group ](https://t.me/slbotzone)
- - [News Channel ](https://t.me/szroseupdates) 
+ - [support group ](https://t.me/caltysupport)
+ - [News Channel ](https://t.me/varproject) 
  - [Documentation ](https://szsupunma.gitbook.io/rose-bot/)
- - [Logs Channel ](https://t.me/szroselog)
- - [Network ](https://t.me/TeamSzRoseBot)
+ - [Logs Channel ](https://t.me/varproject)
+ - [Network ](https://t.me/varproject)
 
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
 Rose is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.

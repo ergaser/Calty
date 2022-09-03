@@ -1,8 +1,8 @@
 <p align="center">
       <img style="width:100px; height: 100px;"  src="https://telegra.ph/file/611dd77adab66f309ae6d.jpg"></p>
-<h1 align="center"><b>Calty Robot</b></h1>
+<h1 align="center"><b>Nesca Robot</b></h1>
 <h2 align="center"><b>The Telegram Bot to manage and protect groups</b></h2>
-<h4 align="center">Rose bot  simplifies the management, administration and security of your group</h4>
+<h4 align="center">Nesca bot  simplifies the management, administration and security of your group</h4>
 
 <p align="center">
     <img src="https://img.shields.io/github/license/szsupunma/sz-rosebot?style=for-the-badge&logo=appveyor" alt="LICENSE">
@@ -14,17 +14,17 @@
     <img href="https://crowdin.com/project/szrosebot" src="https://badges.crowdin.net/szrosebot/localized.svg" alt="crowndin"> 
 </p>
 
-## What is Rose for ?
+## What is Nesca for ?
 
 Have you ever received Telegram in your group **spam, adder, flood,** people who send link, channel message, promoting, arabic ? Rose Bot is the automatic moderator that manages your Telegram group and punishes malicious users automatically for you.
 
 ## How does She work?
 
-Just add CaltyBot to your group as an administrator and configure it with the command /help. It will be ready to protect the your group from spam, flood and attacks. You can set banned words so that the ban or mute of a user in the group when sent.
+Just add NescaBot to your group as an administrator and configure it with the command /help. It will be ready to protect the your group from spam, flood and attacks. You can set banned words so that the ban or mute of a user in the group when sent.
 There is an anti-porn filter to be enabled to automatically delete and punish those who send pornographic content in your group.
 You can adjust all kinds of punishments including message deletion, user ban, user mute etc. There is a captcha check to prevent the entry of VoIP users who automatically spam your group. You can set <b> filters|note|rules|welcome </b> message also for your group.
 
-## Main Calty functions
+## Main Nesca functions
 ### PROTECTION 
   * **Captcha** - Ask users who join the group to resolve a captcha, to filter out unwanted automatic logins.
   * **Anti-Channel** - Automatically delete channel messages if you enable it `/lock anonchannel` .
@@ -40,7 +40,7 @@ You can adjust all kinds of punishments including message deletion, user ban, us
        * Cyrillic Language
 
 ### MANAGEMENT  
-   * **Welcome message** - Set a message to be sent every time a user joins your Telegram group.
+   * **Welcome message** - Hi saya Nesca Management bot telegram.
    * **Group regulation** - The /rules command allows users to easily consult the rules of your group.
    * **Group Filters** - Filters are case insensitive; every time someone says your trigger words, Rose will reply something else! can be used to create your own commands, if desired.
    * **Group Notes** - Notes are great to save random tidbits of information; a phone number, a nice gif, a funny picture - anything!
@@ -65,11 +65,11 @@ If you want to make your bot even more unique, you can create a customized rose 
 
 ## Contact & Support Chats
 
- - [support group ](https://t.me/caltysupport)
- - [News Channel ](https://t.me/varproject) 
+ - [support group ](https://t.me/jomblo_grup_indonesia)
+ - [News Channel ](https://t.me/alvrnxz) 
  - [Documentation ](https://szsupunma.gitbook.io/rose-bot/)
- - [Logs Channel ](https://t.me/varproject)
- - [Network ](https://t.me/varproject)
+ - [Logs Channel ](https://t.me/alvrnxz)
+ - [Network ](https://t.me/alvrnxz)
 
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
 Rose is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.

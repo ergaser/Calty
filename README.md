@@ -1,5 +1,5 @@
 <p align="center">
-      <img style="width:100px; height: 100px;"  src="https://telegra.ph/file/611dd77adab66f309ae6d.jpg"></p>
+      <img style="width:100px; height: 100px;"  src="https://telegra.ph/file/4591e3eb38d02c07c40fe.jpg"></p>
 <h1 align="center"><b>Nesca Robot</b></h1>
 <h2 align="center"><b>The Telegram Bot to manage and protect groups</b></h2>
 <h4 align="center">Nesca bot  simplifies the management, administration and security of your group</h4>
